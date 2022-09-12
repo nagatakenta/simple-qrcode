@@ -12,8 +12,7 @@
     ],
     "require": {
         "php": ">=7.2|^8.0",
-      	"ext-gd": "*",
-        "bacon/bacon-qr-code": "^2.*"
+      	"ext-gd": "*"
     },
     "require-dev": {
         "mockery/mockery": "~1",
